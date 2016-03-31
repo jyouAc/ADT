@@ -1,1 +1,1 @@
-# ADT
+# ADT and athorithm
